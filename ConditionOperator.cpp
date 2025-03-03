@@ -3,8 +3,9 @@
 using namespace std;
 int main()
 {
-    int a, b, max;
+    int a, b, max, Maxnumber;
     cin >> a >> b;
+    // General if elas Condition
     if (a > b)
     {
         max = a;
@@ -13,6 +14,13 @@ int main()
     {
         max = b;
     }
-    cout << "Max Number Is: " << max;
+    cout << "Max Number Is: " << max << endl;
+
+    // ternary operator
+
+    Maxnumber = a > b ? a : b;
+
+    cout << "Max Number Is: " << Maxnumber << endl;
+
     return 0;
 }
