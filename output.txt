@@ -1,2 +1,1 @@
-Max Number Is: 1222
-Max Number Is: 1222
+It is Zero.
