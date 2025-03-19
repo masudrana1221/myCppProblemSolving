@@ -1,1 +1,1 @@
-The maximum number is6422404
+Sum =180
