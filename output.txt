@@ -1,1 +1,10 @@
-It is Zero.
+1 is Odd Number
+2 is Even Number
+3 is Odd Number
+4 is Even Number
+5 is Odd Number
+6 is Even Number
+7 is Odd Number
+8 is Even Number
+9 is Odd Number
+10 is Even Number
