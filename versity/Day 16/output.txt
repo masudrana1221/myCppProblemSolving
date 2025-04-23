@@ -1,0 +1,1 @@
+5 4 2 9 7 The sum of digits in 79245 is: 27
